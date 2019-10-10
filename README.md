@@ -1,7 +1,7 @@
 # TobiasPro.github.io
 website
 
-[(Link)](https://www.google.com)
+[(Google)](https://www.google.com)
 
 
 
