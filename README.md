@@ -5,6 +5,3 @@ website
 
 - [Stickman](https://editor.p5js.org/TobiasPro/sketches/JxeehHrCh)
 
-
-
-
