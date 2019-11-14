@@ -5,5 +5,4 @@ website
 
 - [Stickman](https://editor.p5js.org/TobiasPro/sketches/JxeehHrCh)
 
-- [Hjemmeside](TobiasPro.github.io/html-hjemmeside/profil.html
-)
+- [Hjemmeside](https://tobiaspro.github.io/html-hjemmeside/profil.html)
